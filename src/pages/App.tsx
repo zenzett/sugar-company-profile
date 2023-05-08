@@ -5,14 +5,14 @@ import {
   BsFillRecordCircleFill,
 } from "react-icons/bs";
 
+import Layout from "components/Layout";
 import company from "assets/company-logo-white.png";
 import accessories from "assets/accessories.svg";
-import corevalues from "assets/corevalues.png";
 import logo from "assets/sugar-logo-white.png";
+import corevalues from "assets/corevalues.png";
 import building from "assets/building.svg";
 import exhaust from "assets/exhaust.svg";
 import right from "assets/bg-right.svg";
-import Layout from "components/Layout";
 import left from "assets/bg-left.svg";
 import speed from "assets/speed.svg";
 import arrow from "assets/arrow.png";

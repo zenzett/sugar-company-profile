@@ -11,8 +11,7 @@ export default {
         blue04: "#00537C",
       },
       backgroundImage: {
-        "foot-pattern": "url('src/assets/bgfoot.svg')",
-        exhaust: "url('src/assets/exhaust.svg')",
+        "foot-pattern": "url('/bgfoot.svg')",
       },
     },
   },
