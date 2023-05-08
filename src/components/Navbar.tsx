@@ -1,5 +1,3 @@
-import React from "react";
-
 import company from "assets/company-logo.png";
 import logo from "assets/sugar-logo.png";
 

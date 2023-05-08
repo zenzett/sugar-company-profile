@@ -4,7 +4,6 @@ import {
   BsFillRecordFill,
   BsFillRecordCircleFill,
 } from "react-icons/bs";
-import { useState } from "react";
 
 import company from "assets/company-logo-white.png";
 import accessories from "assets/accessories.svg";
@@ -19,8 +18,6 @@ import speed from "assets/speed.svg";
 import arrow from "assets/arrow.png";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <Layout>
       <div className="flex flex-col">
